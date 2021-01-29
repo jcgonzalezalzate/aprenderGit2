@@ -6,7 +6,7 @@ namespace HelloWorldConsole
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World Leonardo Gomez!");
+            Console.WriteLine("Hello World Leonardo Gomez v2!");
         }
     }
 }
